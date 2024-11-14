@@ -1,5 +1,4 @@
 header {
-  padding-top: 10px;
   background-color: #f8e1db;
   margin: 0 auto;
 }
@@ -17,7 +16,7 @@ header a {
   color: black;
 }
 
-header .logo {
+header img {
   margin-left: 10px;
 }
 
