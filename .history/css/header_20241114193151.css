@@ -1,0 +1,11 @@
+header li {
+  display: inline;
+}
+
+header li a {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.container {
+}

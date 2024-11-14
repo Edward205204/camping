@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  outline: none;
+  padding: 0;
+}
+
+.container {
+  max-width: calc(100% - 20px);
+  margin: 0 auto;
+}

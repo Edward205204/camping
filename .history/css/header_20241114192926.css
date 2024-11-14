@@ -1,0 +1,7 @@
+header li {
+  display: inline;
+}
+
+header li a {
+  padding: 20px;
+}

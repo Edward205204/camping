@@ -1,0 +1,16 @@
+header li {
+  display: inline;
+}
+
+header {
+  background-color: #f8e1db;
+}
+
+header li a {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.container {
+  max-width: calc(100% - 20px);
+}

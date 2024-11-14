@@ -21,6 +21,7 @@ header li {
 }
 
 header ul a {
+  /* border: 2px solid #000;*/
   padding: 10px;
 }
 
