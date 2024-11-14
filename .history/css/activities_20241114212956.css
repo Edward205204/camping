@@ -1,11 +1,9 @@
 #activities {
   background-color: #faf4f2;
   text-align: center;
-  padding: 30px 4px;
 }
 
 .activities__header {
   font-size: 30px;
   color: #8c8c8c;
-  font-weight: 500;
 }

@@ -1,0 +1,36 @@
+header {
+  padding-top: 10px;
+  background-color: #f8e1db;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  /* padding-left: 10px;
+  padding-right: 10px; */
+}
+
+header a {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+header .logo {
+  margin-left: 10px;
+}
+
+header li {
+  display: inline;
+}
+
+header ul a {
+  padding: 10px;
+}
+
+/* 
+  margin ko tính vào kích thước của elements
+  padding tính vào kích thước của elements
+  border tính vào kích thước của elements
+*/
