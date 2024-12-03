@@ -1,0 +1,50 @@
+#stay {
+  padding: 15px;
+  background-color: seagreen;
+  background-color: #f7e0da;
+  background-image: url(../Images/mask.png);
+  background-repeat: no-repeat;
+  background-position-x: -400px;
+}
+
+#stay .container {
+  display: flex;
+}
+
+.stay__illustration {
+  width: 50%;
+}
+
+.infor {
+  display: flex;
+}
+
+.stay__content {
+  width: 50%;
+}
+
+.stay__heading {
+  margin-top: 70px;
+  color: #8c8c8c;
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.stay__desc {
+  margin: 1rem 0 2rem;
+  font-size: 1rem;
+  color: #8f8f8f;
+}
+
+.stay__h3 {
+  margin-bottom: 1.5rem;
+  color: #8c8c8c;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.flow-icon__list i {
+  font-size: 1.5rem;
+  margin-right: 0.25rem;
+  color: #e86f51;
+}
